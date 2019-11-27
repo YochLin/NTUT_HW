@@ -1,0 +1,31 @@
+{
+  "members": [
+    {
+      "id": "XXX",
+      "lineId": "",
+      "name": "",
+      "phone": "",
+      "email": ".com",
+      "bufferMessage": "",
+      "role": "manager"
+    },
+    {
+      "id": "XXX",
+      "lineId": "",
+      "name": "XXX",
+      "phone": "XXX",
+      "email": "XXX.com",
+      "bufferMessage": "",
+      "role": "user"
+    },
+    {
+      "id": "XXX",
+      "lineId": "",
+      "name": "XXX",
+      "phone": "XX",
+      "email": "XXX.com",
+      "bufferMessage": "",
+      "role": "user"
+    }
+  ]
+}

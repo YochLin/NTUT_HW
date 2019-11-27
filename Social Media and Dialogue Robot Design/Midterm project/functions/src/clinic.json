@@ -1,0 +1,195 @@
+{
+  "clinics": [
+    {
+      "clinicId": "01",
+      "clinicName": "光華",
+      "clinicLocation": {
+        "lat": 25.043971,
+        "lon": 121.533853
+      },
+      "openTime": {
+        "morning": "08:30-12:00",
+        "afternoon": "13:30-17:30",
+        "night": "18:35-22:00"
+      },
+      "departments":[
+        {
+          "department":"小兒科",
+          "numberSlip": 0
+        },
+        {
+          "department":"內科",
+          "numberSlip": 0
+        },
+        {
+          "department":"外科",
+          "numberSlip": 0
+        },
+        {
+          "department":"神經科",
+          "numberSlip": 0
+        },
+        {
+          "department":"骨科",
+          "numberSlip": 0
+        },
+        {
+          "department":"皮膚科",
+          "numberSlip": 0
+        },
+        {
+          "department":"眼科",
+          "numberSlip": 0
+        },
+        {
+          "department":"復健科",
+          "numberSlip": 0
+        }
+      ]   
+    },
+    {
+      "clinicId": "02",
+      "clinicName": "台大",
+      "clinicLocation": {
+        "lat": 25.040931,
+        "lon": 121.519001
+      },
+      "numberSlip": 0,
+      "openTime": {
+        "morning": "08:30-12:00",
+        "afternoon": "13:30-17:30",
+        "night": "17:35-22:00"
+      },
+      "departments":[
+        {
+        "department":"小兒科",
+        "numberSlip": 0
+        },
+        {
+          "department":"內科",
+          "numberSlip": 0
+        },
+        {
+          "department":"外科",
+          "numberSlip": 0
+        },
+        {
+          "department":"神經科",
+          "numberSlip": 0
+        },
+        {
+          "department":"骨科",
+          "numberSlip": 0
+        },
+        {
+          "department":"皮膚科",
+          "numberSlip": 0
+        },
+        {
+          "department":"眼科",
+          "numberSlip": 0
+        },
+        {
+          "department":"耳鼻喉科",
+          "numberSlip": 0
+        },
+        {
+          "department":"麻醉科",
+          "numberSlip": 0
+        }
+      ]
+    },
+    {
+      "clinicId": "03",
+      "clinicName": "遠東",
+      "clinicLocation": {
+        "lat": 25.043156,
+        "lon": 121.511069
+      },
+      "numberSlip": 0,
+      "openTime": {
+        "morning": "08:30-12:00",
+        "afternoon": "13:30-17:30",
+        "night": "18:00-22:00"
+      },
+      "departments":[
+        {
+        "department":"小兒科",
+        "numberSlip": 0
+        },
+        {
+          "department":"內科",
+          "numberSlip": 0
+        },
+        {
+          "department":"外科",
+          "numberSlip": 0
+        },
+        {
+          "department":"神經科",
+          "numberSlip": 0
+        },
+        {
+          "department":"骨科",
+          "numberSlip": 0
+        },
+        {
+          "department":"皮膚科",
+          "numberSlip": 0
+        },
+        {
+          "department":"眼科",
+          "numberSlip": 0
+        },
+        {
+          "department":"婦產科",
+          "numberSlip": 0
+        }
+      ]
+    },
+    {
+      "clinicId": "04",
+      "clinicName": "惠恩",
+      "clinicLocation": {
+        "lat": 25.040272,
+        "lon": 121.531121
+      },
+      "numberSlip": 0,
+      "openTime": {
+        "morning": "08:30-12:00",
+        "afternoon": "13:30-17:30",
+        "night": "18:30-22:00"
+      },
+      "departments":[
+        {
+        "department":"小兒科",
+        "numberSlip": 0
+        },
+        {
+          "department":"內科",
+          "numberSlip": 0
+        },
+        {
+          "department":"外科",
+          "numberSlip": 0
+        },
+        {
+          "department":"神經科",
+          "numberSlip": 0
+        },
+        {
+          "department":"骨科",
+          "numberSlip": 0
+        },
+        {
+          "department":"皮膚科",
+          "numberSlip": 0
+        },
+        {
+          "department":"眼科",
+          "numberSlip": 0
+        }
+      ]
+    }
+  ]
+}
